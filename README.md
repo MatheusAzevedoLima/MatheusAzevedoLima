@@ -1,8 +1,6 @@
-# Olá! Eu sou o Matheus 👋
+# Olá! Eu sou o Matheus 
 
 🎓 Estudante de Ciência da Computação
-
-💻 Apaixonado por tecnologia.
 
 🚀 Atualmente buscando uma oportunidade de estágio em TI.
 
