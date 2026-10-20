@@ -1,29 +1,59 @@
-# Olá! Eu sou o Matheus 
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-🎓 Estudante de Ciência da Computação
+<p align="center">
+  🎓 Estudante de Ciência da Computação &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 📊 Dados &amp; IA
+</p>
 
-🚀 Atualmente buscando uma oportunidade de estágio em TI.
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-azevedo-5804bb3b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:matheusazlima608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação e estou construindo minha carreira na área de tecnologia.
+Sou estudante de Ciência da Computação e estou construindo minha carreira em tecnologia, com foco em **desenvolvimento de software**, **análise de dados** e **inteligência artificial**.
 
-Tenho interesse em desenvolvimento de software, análise de dados e inteligência artificial.
+Gosto de aprender fazendo: cada projeto aqui é uma forma de colocar em prática o que estudo e resolver problemas reais.
 
-Estou sempre buscando aprender novas tecnologias e desenvolver projetos práticos.
+> 💼 **Disponível para estágio em TI.** Se tiver uma vaga ou quiser trocar uma ideia, me chama no LinkedIn ou por email!
+
+---
 
 ## 💻 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
+---
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📌 Projeto em destaque
 
-## 📫 Contato
+### [💰 PyInvest](https://github.com/MatheusAzevedoLima/pyinvest)
+Ferramenta em Python que simula e compara o rendimento de diferentes investimentos em **renda fixa e variável** ao longo de um período, ajudando a visualizar qual opção rende mais.
 
-LinkedIn:
-[www.linkedin.com/in/seu-link](https://www.linkedin.com/in/matheus-azevedo-5804bb3b9/)
+`Python`
 
-Email:
-matheusazlima608@gmail.com
+---
+
+## 🎯 Objetivos atuais
+
+- Conseguir meu primeiro estágio em TI
+- Aprofundar em Python para análise de dados e IA
+- Publicar novos projetos práticos aqui no GitHub
+
+---
+
+<p align="center">
+  <i>Obrigado pela visita! ⭐ Se gostou de algum projeto, deixe uma estrela.</i>
+</p>
 
